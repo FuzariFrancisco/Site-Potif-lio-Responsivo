@@ -1,0 +1,57 @@
+section.sobre
+	.itens
+		display: flex
+		align-items: center
+		justify-content: space-around
+		margin: 50px 0
+		make-sm-column(10)
+		make-sm-column-offset(1)
+		text-align: center
+
+		+breakpoint($tablet)
+			display: block
+
+		.foto
+			order: 3
+			+breakpoint($tablet)
+				margin: 0 0 30px
+
+		.icone
+			width: 90px
+			height: 90px
+			background-color: #d3d3d3
+			border-radius: 120px;
+			text-align: center
+			line-height: 75px
+			color: #1e1e1e
+			font-size: 55px
+
+			&.icone-lapis
+				order: 1
+
+			&.icone-codigo
+				order: 2
+
+			&.icone-coracao
+				order: 4
+
+			&.icone-compartilhar
+				order: 5
+
+			+breakpoint($tablet)
+				display: inline-block	
+				width: 75px
+				height: 75px
+				line-height: 75px
+				font-size: 50px
+				margin: 0 3px
+
+	.textos
+		make-sm-column(8)
+		make-sm-column-offset(2)
+		text-align: center	
+		font-size: 20px
+
+		.botao
+			display: table
+			margin: 30px auto
