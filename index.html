@@ -7,6 +7,7 @@
 	<link rel="stylesheet" href="css/geral.css">
 	<link rel="stylesheet" href="css/plugins.css">
 	<link rel="stylesheet" href="css/home.css">
+	<link rel="stylesheet" href="bower_components/wow/css/libs/animate.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 </head>
 
@@ -66,23 +67,23 @@
 				<div class="container">
 					<div class="itens">
 
-						<div class="foto">
+						<div class="foto wow slideInLeft" data-wow-duration="2s" data-wow-delay="0.5s">
 							<img src="images/FotoPerfil-PaginaInicial.png" alt="FotoTAG">
 						</div>
 
-						<div class="icone icone-lapis">
+						<div class="icone icone-lapis wow slideInLeft" data-wow-duration="2s" data-wow-delay="0.3s">
 							<img src="images/pencil.png" alt="" style="width: 40px; height: 40px;"></img>
 						</div>
 
-						<div class="icone icone-codigo">
+						<div class="icone icone-codigo wow slideInLeft" data-wow-duration="2s" data-wow-delay="0.3s">
 							<img src="images/code.png" alt="" style="width: 40px; height: 40px;"></img>
 						</div>
 
-						<div class="icone icone-coracao">
+						<div class="icone icone-coracao wow slideInLeft" data-wow-duration="2s" data-wow-delay="0.3s">
 							<img src="images/heart.png" alt="" style="width: 40px; height: 40px;"></img>
 						</div>
 
-						<div class="icone icone-compartilhar">
+						<div class="icone icone-compartilhar wow slideInLeft" data-wow-duration="2s" data-wow-delay="0.3s">
 							<img src="images/game.png" alt="" style="width: 43px; height: 43px;"></img>
 						</div>
 
@@ -117,6 +118,7 @@
     </div>
 
 	<script src="bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="bower_components/wow/dist/wow.min.js"></script>
 	<script>
 		$(function(){	
 			$('.toggle').click(function(){
@@ -128,6 +130,8 @@
 				$('.layout').toggleClass('ativo');
 				$(this).toggleClass('ativo');
 			});
+
+			new WOW().init();
 		});
 	</script>
 </body>
