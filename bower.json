@@ -23,6 +23,7 @@
   },
   "devDependencies": {
     "imagehover.css": "^2.0.0",
-    "wow": "wowjs#^1.1.2"
+    "wow": "wowjs#^1.1.2",
+    "jquery": "^3.4.1"
   }
 }
