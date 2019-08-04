@@ -1,0 +1,32 @@
+.habilidades
+    +clearfix
+    +make-sm-column(10)
+    +make-sm-column-offset(1)
+    font-size: 20px
+    margin-bottom: 50px
+
+    li
+        +make-sm-column(6)
+
+        h2
+        margin: 40px 0 10px
+            font-size: 28px
+
+
+    @for $i from 0 through 100
+        li.habilidade-#{$i}
+            .barra span
+                width: 1% * $i
+
+    .barra
+        background-color: $cinza-claro
+        +border-radius(120px)
+        display: block
+        height: 17px
+        margin: 18px  
+
+        span
+            display: block
+            height: 100%
+            +border-radius(120px)
+            background-color: #1e1e1e      

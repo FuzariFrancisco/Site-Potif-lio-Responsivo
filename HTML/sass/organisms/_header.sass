@@ -1,0 +1,81 @@
+header
+	+clearfix
+	min-height: 475px
+	position: relative
+
+	.logo
+		float: left
+		margin: 30px
+		img	
+			width: 45px
+			height: 45px
+
+
+	.links
+		margin: 35px 0 0
+
+	.links
+		float: right
+
+		nav,
+		.social
+			display: inline-block
+				
+
+		nav
+			+breakpoint($tablet)
+				display: none
+			+breakpoint($celular)
+				display: none
+			ul
+				li
+					display: inline-block
+					margin: 0 20px 0 0
+					a
+						color: $branco
+						text-transform: uppercase
+
+						&:hover
+							&:after	
+								width: 80%
+
+						&:after
+							content: ""
+							display: table
+							width: 0%
+							height: 2px
+							background-color: $branco
+							margin: 5px auto 0
+							+transition(.2s)
+
+
+		.social
+			li
+				margin: 0 5px 0 0
+				display: inline-block
+				a
+					color: $branco
+					display: block
+					border: 1px solid $branco
+					padding: 4px
+					width: 40px
+					height: 40px
+					line-height: 12px
+					text-align: center
+					+border-radius(120px)
+	
+	h1
+		clear: both
+		margin: 360px auto 15px auto!important
+		border: 3px solid $branco
+		padding: 10px
+		display: table
+		+breakpoint($celular)
+				+font-size(35px)
+
+	
+
+	h1, p
+		color: $branco
+		text-align: center
+		text-transform: uppercase
