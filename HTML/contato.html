@@ -62,32 +62,32 @@
         <main>
             <sectio class="contato">
                 <div class="container">
-                    <form>
+                    <form method="POST" action="./email.php">
                         <div class="cols">
                             <div class="col">
                                 <div class="form-group">
-                                    <input type="text" placeholder="Nome" required>
+                                    <input type="text" placeholder="Nome" name="nome" required>
                                 </div>
                             </div>
 
 
                             <div class="col">
                                 <div class="form-group">
-                                    <input type="email" placeholder="Email">
+                                    <input type="email" placeholder="Email" name="email">
                                 </div>
                             </div>
 
 
                             <div class="col">
                                 <div class="form-group">
-                                    <input type="number" placeholder="Telefone">
+                                    <input type="number" placeholder="Telefone" name="telefone">
                                 </div>
                             </div>
 
 
                             <div class="col">
                                 <div class="form-group">
-                                    <select>
+                                    <select name="assunto">
                                         <option>Selecione uma opção</option>
                                         <option>Orçamento</option>
                                         <option>Sugestão</option>
@@ -99,7 +99,7 @@
 
 
                         <div class="form-group">
-                            <textarea placeholder="deixe aqui sua mensagem."></textarea>
+                            <textarea name="mensagem" placeholder="deixe aqui sua mensagem."></textarea>
                         </div>
 
                         <div class="form-group">
