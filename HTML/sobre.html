@@ -46,10 +46,10 @@
 
                     <ul class="social">
                         <li>
-							<a href="https://github.com/FuzariFrancisco"><img src="images/Github.png" alt="" style="width: 30px; height: 30px;"></img></a>
+							<a href="https://github.com/FuzariFrancisco" target="_blank"><img src="images/Github.png" alt="" style="width: 30px; height: 30px;"></img></a>
 						</li>
 						<li>
-							<a href="https://www.linkedin.com/in/francisco-henrique-010912189/"><img src="images//Linkedin.png" alt="" style="width: 30px; height: 30px;"></img></a>
+							<a href="https://www.linkedin.com/in/francisco-henrique-010912189/" target="_blank"><img src="images//Linkedin.png" alt="" style="width: 30px; height: 30px;"></img></a>
 						</li>
                     </ul>
                 </div>
