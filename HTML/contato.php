@@ -46,17 +46,10 @@
 
                     <ul class="social">
                         <li>
-<<<<<<< HEAD
 							<a href="https://github.com/FuzariFrancisco" target="_blank"><img src="images/Github.png" alt="" style="width: 30px; height: 30px;"></a>
 						</li>
 						<li>
 							<a href="https://www.linkedin.com/in/francisco-henrique-010912189/" target="_blank"><img src="images//Linkedin.png" alt="" style="width: 30px; height: 30px;"></a>
-=======
-							<a href="https://github.com/FuzariFrancisco" target="_blank"><img src="images/Github.png" alt="" style="width: 30px; height: 30px;"></img></a>
-						</li>
-						<li>
-							<a href="https://www.linkedin.com/in/francisco-henrique-010912189/" target="_blank"><img src="images//Linkedin.png" alt="" style="width: 30px; height: 30px;"></img></a>
->>>>>>> 515fefa6a6716d72d6388c12147727462ce8d725
 						</li>
                     </ul>
                 </div>
