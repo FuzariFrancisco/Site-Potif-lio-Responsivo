@@ -27,9 +27,9 @@
 					<div class="textos">
 
 						<p>
-							<strong>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </strong>Odio provident,
-							tempore eos nihil totam consequatur earum dignissimos quas velit accusantium expedita vero
-							excepturi deleniti possimus quis dolor, facilis similique! Nostrum.
+							<strong>Francisco Henrique da Silva, Estudante de Programação </strong><br>
+							Atualmente Curso Superior em Análise e Desenvolvimento de Sistemas, e Técnico em Programação de Jogos Digitais.
+							Sou uma pessoa comunicativa, que gosta de conversar e compartilhar conhecimentos em grupo, sempre disposto a ajudar e ser ajudado. 
 						</p>
 
 						<a href="sobre.php" class="botao medio">
@@ -38,4 +38,4 @@
 
 					</div>
 				</div>
-			</section>
+</section>

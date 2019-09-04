@@ -6,15 +6,14 @@
 	<title>Meu Portifólio</title>
 	<link rel="stylesheet" href="css/geral.css">
 	<link rel="stylesheet" href="css/plugins.css">
-	<link rel="stylesheet" href="css/<?php echo $style; ?>.css">
+	<link rel="stylesheet" href="css/<?php echo $style?>.css">
 	<link rel="stylesheet" href="WOW-master/css/libs/animate.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 </head>
 
 <body>
 
-	<?php include('includes/organisms/menu-responsivo.php'); ?>	
-
+	<?php include('includes/organisms/menu-responsivo.php');?>	
 
 	<div class="layout">
 		<header>
@@ -24,8 +23,9 @@
 				</div>
 
 				<div class="links">
-					<?php include('includes/organisms/menu.php'); ?>
 					
+				<?php include('includes/organisms/menu.php');?>	
+
 					<a class="toggle" href="javascript:;">
 						<span></span>
 						<span></span>
@@ -34,15 +34,15 @@
 
 					<ul class="social">
 						<li>
-							<a href="https://github.com/FuzariFrancisco"><img src="images/Github.png" alt="" style="width: 30px; height: 30px;"></img></a>
+							<a href="https://github.com/FuzariFrancisco" target="_blank"><img src="images/Github.png" alt="" style="width: 30px; height: 30px;"></img></a>
 						</li>
 						<li>
-							<a href="https://www.linkedin.com/in/francisco-henrique-010912189/"><img src="images//Linkedin.png" alt="" style="width: 30px; height: 30px;"></img></a>
+							<a href="https://www.linkedin.com/in/francisco-henrique-010912189/" target="_blank"><img src="images//Linkedin.png" alt="" style="width: 30px; height: 30px;"></img></a>
 						</li>
 					</ul>
 				</div>
 
-				<h1><?php echo $chamada ?></h1>
+				<h1><strong><?php echo $chamada ?></strong></h1>
 				<p>Learn // Code // Play</p>
 			</div>
 		</header>

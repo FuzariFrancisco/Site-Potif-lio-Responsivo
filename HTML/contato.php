@@ -73,14 +73,14 @@
 
                             <div class="col">
                                 <div class="form-group">
-                                    <input type="email" placeholder="Email" name="email">
+                                    <input type="email" placeholder="Email" name="email" required>
                                 </div>
                             </div>
 
 
                             <div class="col">
                                 <div class="form-group">
-                                <input type="text" placeholder="Telefone" name="telefone" onkeypress='return event.charCode >= 48 && event.charCode <= 57'>
+                                <input type="text" placeholder="Telefone" name="telefone" onkeypress='return event.charCode >= 48 && event.charCode <= 57' required>
                                 </div>
                             </div>
 
@@ -99,7 +99,7 @@
 
 
                         <div class="form-group">
-                            <textarea name="mensagem" placeholder="deixe aqui sua mensagem."></textarea>
+                            <textarea name="mensagem" placeholder="deixe aqui sua mensagem."></textarea required>
                         </div>
 
                         <div class="form-group">

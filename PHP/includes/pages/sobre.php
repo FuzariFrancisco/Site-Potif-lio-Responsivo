@@ -4,9 +4,11 @@
                     <div class="textos">
 
                         <p>
-                            <strong>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </strong>Odio provident,
-                            tempore eos nihil totam consequatur earum dignissimos quas velit accusantium expedita vero
-                            excepturi deleniti possimus quis dolor, facilis similique! Nostrum.
+                            <strong>Jogos e Sistemas </strong>. Tenho um interesse muito grande em trabalhar com jogos. 
+                             Meus focos de estudo são Desenvolvimento WEB, C#, Ferramenta Unity e Git. 
+                             Também estudo as linguagens de programação C, PHP e JavaScript, e utilizo banco de dados 
+                             MySQL nas aulas, possuo conhecimentos com a ferramenta de edição Photoshop, Pacote Office, comandos básicos de 
+                             Git e noções básicas de modelagem 3D (3DS MAX).
                         </p>
                     </div>
 
@@ -26,14 +28,14 @@
                             39%%
                             <div class="barra"><span></span></div>
                         </li>
-                        <li class="habilidade-44">
+                        <li class="habilidade-40">
                             <img src="images/GitHub2.png" alt="" style="width: 45px; height: 45px;"> <strong>Git</strong> //
-                            44%
+                            40%
                             <div class="barra"><span></span></div>
                         </li>
                     </ul>
 
-                    <a href="portifolio.php" class="botao medio">
+                    <a href="portfolio.php" class="botao medio" style="width: 220px; text-align: center;">
                         Meu Portifólio
                     </a>
 

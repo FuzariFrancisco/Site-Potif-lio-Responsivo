@@ -1,10 +1,9 @@
 <?php
-    $style = 'home';
-    $chamada = '<strong>Francisco Henrique</strong>';
-    include('header.php');
-    include('includes/pages/home.php');
-    include('footer.php');
-?>    
- 
+	$style = 'home';
+	$chamada = 'Francisco Henrique';
+	include('header.php');
+	include('includes/pages/home.php');			
+	include('footer.php');
+?>	
 			
 		
