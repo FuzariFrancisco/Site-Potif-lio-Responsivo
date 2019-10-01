@@ -13,18 +13,26 @@ e meus trabalhos.
 
 ![imagem do site](Imagens-ReadMe/Capa-SitePortfolio.PNG)
 
+### Projetos
+
+#### - HTML 
+- Projeto estruturado em HTML, página contato em PHP.
+
+#### - PHP
+- Projeto estruturado todo em PHP.
+
 ### Dependências
 
-* **package.json**
+- **package.json**
 ~~~
 "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-sass": "^4.0.2",
     "gulp-watch": "^5.0.1"
   }
-~~~
-
-* **bower.json**
+~~~  
+  
+- **bower.json**
 ~~~
 "dependencies": {
     "bootstrap": "^4.3.1",
