@@ -15,9 +15,6 @@ e meus trabalhos.
 
 ### Projetos
 
-#### - HTML 
-- Projeto estruturado em HTML, página contato em PHP.
-
 #### - PHP
 - Projeto estruturado todo em PHP.
 
