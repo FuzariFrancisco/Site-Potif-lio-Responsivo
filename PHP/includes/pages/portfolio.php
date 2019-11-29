@@ -42,11 +42,11 @@
 
                         <li>
                             <figure>
-                                <img src="images/DesafioNasAlturas-Fundo.png" alt="Thumb">
+                                <img src="images/Fundo-GuitarLixo.png" alt="Thumb">
                                 <figcaption>
-                                    <a href="https://fuzarifrancisco.itch.io/desafio-nas-alturas" target="_blank">
-                                        <h3>Desafio Nas Alturas</h3>
-                                        <p>Jogo 2D produzido na unity com C#.</p>
+                                    <a href="https://fuzarifrancisco.itch.io/guitar-lixo" target="_blank">
+                                        <h3>Jogo Guitar Lixo</h3>
+                                        <p>Jogo 2D para um Projeto Ambiental, feito na Unity com C#.</p>
                                     </a>
                                     <div class="overlay"></div>
                                 </figcaption>
@@ -88,60 +88,6 @@
                                     <a href="https://fuzarifrancisco.itch.io/simulao-sistema-solar-unity" target="_blank">
                                         <h3>Sistema Solar 3D.</h3>
                                         <p>Simulação 3D do sistema solar, feita na unity com C#.</p>
-                                    </a>
-                                    <div class="overlay"></div>
-                                </figcaption>
-                            </figure>
-                        </li>
-
-                        <li>
-                            <figure>
-                                <img src="images/Fundo-GuitarLixo.png" alt="Thumb">
-                                <figcaption>
-                                    <a href="https://fuzarifrancisco.itch.io/guitar-lixo" target="_blank">
-                                        <h3>Jogo Guitar Lixo</h3>
-                                        <p>Jogo 2D para um Projeto Ambiental, feito na Unity com C#.</p>
-                                    </a>
-                                    <div class="overlay"></div>
-                                </figcaption>
-                            </figure>
-                        </li>
-                    </ul>
-
-                    <ul>
-                        <li>
-                            <figure>
-                                <img src="images/Foto-Portifolio.jpg" alt="Thumb">
-                                <figcaption>
-                                    <a href="#" target="_blank">
-                                        <h3>Campo Vazio</h3>
-                                        <p>Em Breve Novos Projetos</p>
-                                    </a>
-                                    <div class="overlay"></div>
-                                </figcaption>
-                            </figure>
-                        </li>
-
-                        <li>
-                            <figure>
-                                <img src="images/Foto-Portifolio.jpg" alt="Thumb">
-                                <figcaption>
-                                    <a href="#" target="_blank">
-                                        <h3>Campo Vazio</h3>
-                                        <p>Em Breve Novos Projetos</p>
-                                    </a>
-                                    <div class="overlay"></div>
-                                </figcaption>
-                            </figure>
-                        </li>
-
-                        <li>
-                            <figure>
-                                <img src="images/Foto-Portifolio.jpg" alt="Thumb">
-                                <figcaption>
-                                    <a href="#" target="_blank">
-                                        <h3>Campo Vazio</h3>
-                                        <p>Em Breve Novos Projetos</p>
                                     </a>
                                     <div class="overlay"></div>
                                 </figcaption>

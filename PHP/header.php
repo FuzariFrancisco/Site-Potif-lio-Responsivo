@@ -4,6 +4,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Meu Portifólio</title>
+	<link rel="icon" type="imagem/png" href="images/Logo.png"/>
 	<link rel="stylesheet" href="css/geral.css">
 	<link rel="stylesheet" href="css/plugins.css">
 	<link rel="stylesheet" href="css/<?php echo $style?>.css">
@@ -37,7 +38,7 @@
 							<a href="https://github.com/FuzariFrancisco" target="_blank"><img src="images/Github.png" alt="" style="width: 30px; height: 30px;"></img></a>
 						</li>
 						<li>
-							<a href="https://www.linkedin.com/in/francisco-henrique-010912189/" target="_blank"><img src="images//Linkedin.png" alt="" style="width: 30px; height: 30px;"></img></a>
+							<a href="https://www.linkedin.com/in/francisco-fuzari-010912189/" target="_blank"><img src="images//Linkedin.png" alt="" style="width: 30px; height: 30px;"></img></a>
 						</li>
 					</ul>
 				</div>
