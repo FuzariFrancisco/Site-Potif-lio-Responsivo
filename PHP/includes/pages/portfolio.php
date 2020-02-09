@@ -31,7 +31,7 @@
                             <figure>
                                 <img src="images/HideousCastle-Fundo.png" alt="Thumb">
                                 <figcaption>
-                                    <a href="https://fuzarifrancisco.itch.io/hideous-castle" target="_blank">
+                                    <a href="http://fh-portfolio.000webhostapp.com/HideousCastle/" target="_blank">
                                         <h3>Hideous Castle</h3>
                                         <p>Jogo 2D feito com JavaScript.</p>
                                     </a>
@@ -83,11 +83,11 @@
 
                         <li>
                             <figure>
-                                <img src="images/Fundo-SistemaSolar.png" alt="Thumb">
+                                <img src="images/ViagemNiara-Fundo.PNG" alt="Thumb">
                                 <figcaption>
-                                    <a href="https://fuzarifrancisco.itch.io/simulao-sistema-solar-unity" target="_blank">
-                                        <h3>Sistema Solar 3D.</h3>
-                                        <p>Simulação 3D do sistema solar, feita na unity com C#.</p>
+                                    <a href="https://fuzarifrancisco.itch.io/viagem-de-niara" target="_blank">
+                                        <h3>Viagem De Niara</h3>
+                                        <p>Jogo 2D produzido na unity com C#.</p>
                                     </a>
                                     <div class="overlay"></div>
                                 </figcaption>
@@ -96,11 +96,11 @@
 
                         <li>
                             <figure>
-                                <img src="images/Foto-Portifolio.jpg" alt="Thumb">
+                                <img src="images/IrmaosReparo-Fundo.PNG" alt="Thumb">
                                 <figcaption>
-                                    <a href="#" target="_blank">
-                                        <h3>Campo Vazio</h3>
-                                        <p>Em Breve Novos Projetos</p>
+                                    <a href="https://fuzarifrancisco.itch.io/irmos-reparo" target="_blank">
+                                        <h3>Irmãos Reparo</h3>
+                                        <p>Jogo 2D produzido na unity com C#.</p>
                                     </a>
                                     <div class="overlay"></div>
                                 </figcaption>
